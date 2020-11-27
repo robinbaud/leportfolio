@@ -1,0 +1,179 @@
+/**
+ * Feuille de style personnalisée
+ ============================================ */
+ body {
+    background: white;
+}
+
+.text-center h2{
+    color: #f1e530;
+    font-family: url(GearsOfPeace.ttf);
+}
+
+h2{
+    color: #e2b111;
+    font-family: url(GearsOfPeace.ttf);
+}
+
+h1{
+    margin-bottom: .5rem;
+    font-family: url(GearsOfPeace.ttf);
+    font-size: 70px;
+    color: #fff;
+}
+
+.site-hero {
+    position: relative;
+    height: 100vh;
+    background-size: cover;
+    background-position: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.site-hero-content-buttons {
+    margin: 0;
+    margin-bottom: -75px;
+    padding: 0;
+}
+
+.site-navigation {
+    padding: 20px 0;
+    background: none;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    transition: all .3s cubic-bezier(0.55,0.085,0.68,0.53);
+}
+
+.btn-primary{
+    background: #ffbb00;
+    color: white;
+}
+.btn-primary:hover{
+    background: #ffbb00;
+    color: white;  
+}
+.btn-primary:not(:disabled):not(.disabled).active:focus, .btn-primary:not(:disabled):not(.disabled):active:focus, .show>.btn-primary.dropdown-toggle:focus {
+    box-shadow: none;
+    background: #f3ff4b;
+    color: white
+}
+.navbar-expand-lg .navbar-collapse {
+    display: -ms-flexbox!important;
+    display: flex!important;
+    -ms-flex-preferred-size: auto;
+    flex-basis: auto;
+    position: relative;
+}
+.site-navigation .nav-item .nav-link {
+    font-family: url(koliko-Regular.ttf);
+    color: #ee7320;
+    transition: all .3s ease;
+    padding: 15px 18px;
+    position: relative;
+    font-size: 19px;
+}
+
+.site-navigation .navbar-brand img {
+    max-width: 180px;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+.site-footer-logo img{
+    max-width: 220px;
+}
+.site-project-header {
+    padding: 170px 0 100px;
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.site-project-header {
+    padding: 170px 0 100px;
+    background: #cccbc5;
+}
+
+.site-blog-header {
+    padding: 150px 0 0;
+    background: #cccbc5;
+}
+
+.site-project-header-content h1 span {
+    color: #eb8157;
+    font-size: 30px;
+}
+
+.site-project-header-content h1 {
+    font-size: 55px;
+    color: #fbff1e;
+    font-size: 30px;
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.site-cta-title {
+    font-size: 70px;
+    font-weight: 700;
+    letter-spacing: 10px;
+    margin-bottom: 60px;
+    color: #292929;
+    font-family: url(CRYSISB.ttf);
+}
+
+.site-footer {
+    background: #5a5a59;
+    padding: 100px 0;
+}
+
+.site-contact-title {
+    font-weight: 700;
+    margin-bottom: .5rem;
+    font-family: crysis;
+    font-size: 70px;
+    color: #ee7320;
+}
+.site-contact-title span {
+    color: #1d80f0;
+}
+
+.form-control {
+    border-color: #1d80f0;
+}
+
+.site-contact {
+    background: #ecece7;
+}
+
+.site-blog-header h1 {
+    font-size: 70px;
+}
+
+.site-project-item-content, .site-blog-post-content {
+    position: absolute; top: 170px;
+    background: #f7f9ff;
+    width: 100%;
+    padding: 45px 50px;
+    bottom: 0;
+    transition: all .3s cubic-bezier(0.36,0.03,0,0.91);
+}
+.site-project-item-content h3 a, .site-blog-post-content h3 a {
+    color: #00113e;
+    transition: .3s ease;
+    position: relative;
+    font-size: 20px
+}
