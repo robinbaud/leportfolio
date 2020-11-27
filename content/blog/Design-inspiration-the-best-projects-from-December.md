@@ -1,5 +1,5 @@
 ---
-title: "Design Inspiration: The Best Projects From December"
+title: "Ces jeux qui m'inspirent"
 date: 2019-12-24T13:45:06+06:00
 image: images/ME.png
 feature_image: images/blog/blog-details-image.jpg

@@ -1,7 +1,7 @@
 ---
-title: "The 10 Biggest Rebrands and Logo Designs of 2019"
+title: "La scène alternative"
 date: 2019-12-24T13:40:00+06:00
-image: images/deadcells.jpg
+image: images/deadcells.png
 feature_image: images/blog/blog-details-image.jpg
 author: Alexender Schoitiz
 ---

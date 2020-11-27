@@ -1,7 +1,7 @@
 ---
-title: "Design Inspiration: The Best Projects From November"
+title: "Une mine de creation"
 date: 2019-12-24T13:36:06+06:00
-image: images/ggj.jpg
+image: images/ggj.png
 feature_image: images/blog/blog-details-image.jpg
 author: Alexender Schoitiz
 ---

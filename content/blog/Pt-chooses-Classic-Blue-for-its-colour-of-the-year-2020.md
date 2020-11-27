@@ -1,7 +1,7 @@
 ---
-title: "Pt Chooses Classic Blue for Its Colour of the Year 2020"
+title: "Les projets que je suis et que je soutiens "
 date: 2019-12-24T13:32:54+06:00
-image: images/blog/blog-post-03.jpg
+image: images/dual.png
 feature_image: images/blog/blog-details-image.jpg
 author: Alexender Schoitiz
 ---
