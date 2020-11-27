@@ -64,7 +64,7 @@
   background-color: #fbff1e;
   color: $white;
   &:hover{
-    background: darken($color: background-color, $amount: 10);
+    background: darken($color: #fbff1e, $amount: 10);
   }
 }
 
