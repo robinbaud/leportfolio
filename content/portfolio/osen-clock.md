@@ -1,8 +1,8 @@
 ---
-title: "OSEN CLOCK"
+title: "CubyRun: pleine vitesse! "
 date: 2019-12-23T15:56:43+06:00
 type: portfolio
-image: "images/projects/project-thumb-two.jpg"
+image: "images/run.JPG"
 category: ["PRODUCT DESIGN"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---

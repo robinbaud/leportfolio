@@ -1,8 +1,8 @@
 ---
-title: "KIO-TAPE BRAND"
+title: "L'œil"
 date: 2019-12-23T20:56:42+06:00
 type: portfolio
-image: "images/ME.png"
+image: "images/ec6.png"
 category: ["PRODUCT LABEL"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---

@@ -2,35 +2,13 @@
 title: "Les projets que je suis et que je soutiens "
 date: 2019-12-24T13:32:54+06:00
 image: images/dual.png
-feature_image: images/blog/blog-details-image.jpg
-author: Alexender Schoitiz
+feature_image: https://actiward.net/wp-content/uploads/2018/12/dual-u-titre2.jpg
+author: Robin Baud
 ---
-### Black Lines brand identity, by & Smith
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at tortor et metus blandit laoreet vitae ornare ex. Aenean orci sapien, accumsan quis placerat eget, volutpat in purus. Cras in nunc cursus, venenatis elit ut, interdum risus. Fusce eu dignissim risus, at convallis velit. Aenean rhoncus fermentum ornare. Donec aliquet mattis arcu, et facilisis elit elementum non. Nam sit amet arcu ante. Sed libero magna, accumsan a magna placerat, ornare porttitor est. Donec metus magna, pretium vitae tincidunt eget, accumsan sit amet nibh. Duis fringilla augue et velit sagittis tincidunt. In nec ex ut urna rhoncus tincidunt. Duis sit amet est ut ante accumsan eleifend quis et lacus. Duis non faucibus eros. Proin nec purus risus.
 
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut non maximus nisi. Vivamus varius ullamcorper magna ornare elementum. Aenean pharetra luctus pulvinar. Nulla ornare mi id turpis condimentum, in feugiat ante convallis. Quisque sed neque vulputate, commodo elit at, sollicitudin erat. Mauris commodo purus sapien, et molestie lacus consequat vitae. Suspendisse id sapien vitae nisl maximus malesuada. Donec at velit eget mauris auctor interdum. Morbi ut tempus tortor. Aenean pulvinar vel felis ac vehicula. In et nisi enim. Aliquam nec arcu non purus vehicula vehicula. In consequat mattis sollicitudin.
 
-1. ROFL means Rolling on floor laughing.
-2. STFU means Shut the *freak* up.
-3. LMK means Let me know.
-4. ILY means I love you.
-5. YOLO means You only live once.
-6. SMH means Shaking my head.
+![vampir](https://cdn.mos.cms.futurecdn.net/xB4qgQqpxLcq6tjTbNwWrT.jpg)
 
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
-
-1. ROFL means Rolling on floor laughing.
-2. STFU means Shut the *freak* up.
-3. LMK means Let me know.
-4. ILY means I love you.
-5. YOLO means You only live once.
-6. SMH means Shaking my head.
-
-![blog-details-image-02](https://user-images.githubusercontent.com/16266381/71399826-2009b380-264f-11ea-9bc3-59d7fa9a9994.jpg)
-
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
-
-> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
-
-
-> Paul Rand, graphic designer
-
+Interdum et malesuada fames ac ante ipsum primis in faucibus. Ut non maximus nisi. Vivamus varius ullamcorper magna ornare elementum. Aenean pharetra luctus pulvinar. Nulla ornare mi id turpis condimentum, in feugiat ante convallis. Quisque sed neque vulputate, commodo elit at, sollicitudin erat. Mauris commodo purus sapien, et molestie lacus consequat vitae. Suspendisse id sapien vitae nisl maximus malesuada. Donec at velit eget mauris auctor interdum. Morbi ut tempus tortor. Aenean pulvinar vel felis ac vehicula. In et nisi enim. Aliquam nec arcu non purus vehicula vehicula. In consequat mattis sollicitudin.
