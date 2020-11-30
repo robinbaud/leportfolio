@@ -1,6 +1,6 @@
 ---
 title: "L'œil "
-date: 2019-12-23T15:56:43+06:00
+date: 2020-11-30T15:56:43+06:00
 type: portfolio
 image: "images/ec6.png"
 category: ["PRODUCT DESIGN"]

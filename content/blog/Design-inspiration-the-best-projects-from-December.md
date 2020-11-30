@@ -1,6 +1,6 @@
 ---
 title: "Ces jeux qui m'inspirent"
-date: 2019-12-24T13:45:06+06:00
+date: 2020-11-30T13:45:06+06:00
 image: images/ME.png
 feature_image: https://images.alphacoders.com/724/thumb-1920-724328.jpg
 author: Robin Baud

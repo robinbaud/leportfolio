@@ -1,6 +1,6 @@
 ---
 title: "CubyRun: pleine vitesse!"
-date: 2019-12-23T20:56:42+06:00
+date: 2020-11-30T20:56:42+06:00
 type: portfolio
 image: "images/run.JPG"
 category: ["PRODUCT LABEL"]

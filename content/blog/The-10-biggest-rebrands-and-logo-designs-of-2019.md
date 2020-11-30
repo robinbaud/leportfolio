@@ -1,6 +1,6 @@
 ---
 title: "La scène alternative"
-date: 2019-12-24T13:40:00+06:00
+date: 2020-11-30T13:40:00+06:00
 image: images/deadcells.png
 feature_image: https://image.jeuxvideo.com/medias-md/149504/1495038632-7431-card.jpg
 author: Robin Baud

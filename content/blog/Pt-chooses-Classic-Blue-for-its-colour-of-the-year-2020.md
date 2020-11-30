@@ -1,6 +1,6 @@
 ---
 title: "Les projets que je suis et que je soutiens "
-date: 2019-12-24T13:32:54+06:00
+date: 2020-11-30T13:32:54+06:00
 image: images/dual.png
 feature_image: https://actiward.net/wp-content/uploads/2018/12/dual-u-titre2.jpg
 author: Robin Baud

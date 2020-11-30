@@ -1,6 +1,6 @@
 ---
 title: "Une mine de creation"
-date: 2019-12-24T13:36:06+06:00
+date: 2020-11-30T13:36:06+06:00
 image: images/ggj.png
 feature_image: https://www.objectif3d.com/2017/wp-content/uploads/2020/01/GGJ.jpg
 author: Robin Baud
