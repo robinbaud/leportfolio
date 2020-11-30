@@ -211,3 +211,7 @@ h1{
     font-family: 'Goldman', cursive;
     color: #f2ab27;
 }
+.site-project-item-content h3 a:hover {
+    color: rgb(255, 136, 0) 
+}
+
