@@ -1,6 +1,6 @@
 baseURL       = "https://robinbaudnws.netlify.app"
 languageCode  = "fr-FR"
-title         = "Roxo | NWS portfolio starter theme"
+title         = "RobinBaud game designer"
 theme         = "roxo"
 summarylength = 25
 
@@ -60,8 +60,8 @@ summarylength = 25
 
   [params.portfolio]
     enable    = true
-    title     = "Mes Récents Traveaux"
-    subtitle  = "s'exercé par la pratique"
+    title     = "Mes Récents Travaux"
+    subtitle  = "s'exercer par la pratique"
   [params.call_to_action]
     enable              = true
     background_image    = "images/background/gamingroom2.jpg"
