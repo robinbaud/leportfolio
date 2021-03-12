@@ -7,7 +7,7 @@ category: ["UI UX"]
 project_images: 
 ---
 
-Take N Think est un jeu de carte sur la culture rouennaise conçu avec trois compagnons dans le cadre de notre formation "chef de projet digital".
+Take N Think est un jeu de cartes sur la culture rouennaise conçu avec trois compagnons dans le cadre de notre formation "chef de projet digital".
 
 ![oui](/images/u1.jpeg)
 ![oui](/images/u2.jpeg)
